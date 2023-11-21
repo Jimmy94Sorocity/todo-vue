@@ -56,8 +56,8 @@
 
 <template>
   <div class="container">
-    <Cabecalho />
-    <Formulario />
+    <Cabecalho :tarefas-pendentes="10"/>
+    <Formulario/>
     <ListaDeTarefas />
   </div>
 </template>
