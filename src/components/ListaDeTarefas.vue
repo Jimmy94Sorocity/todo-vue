@@ -15,6 +15,6 @@
 
 <style scoped>
 .done {
-  text-decoration: line-through;
+    text-decoration: line-through;
 }
 </style>
